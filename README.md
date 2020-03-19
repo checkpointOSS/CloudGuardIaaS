@@ -1,6 +1,8 @@
 # Check Point CloudGuard IaaS Repository Overview
 Check Point CloudGuard IaaS repository.
 
+AWS password AABBVV123!@#
+
 The repository contains:
 
 * Solution/CloudFormation templates
